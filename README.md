@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Lochis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lochis&show_icons=true&theme=synthwave)
+While employed, I create some thing sometimes.
 
 <!--
 **Lochis/Lochis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
