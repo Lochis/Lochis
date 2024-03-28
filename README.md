@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-While employed, I create some thing sometimes.
+I create somethings sometimes.
 
 <!--
 **Lochis/Lochis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
