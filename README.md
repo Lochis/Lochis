@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am a System Analyst aspiring to be a professional Software Developer.
-
 <!--
 **Lochis/Lochis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
