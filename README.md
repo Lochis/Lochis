@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a locally hosted AI chatbot, utilizing Ollama, Supabase, NextJS, and Llama3:7b
+
 Many of my repositories are private due to the safety of the ideas.
 
 <!--
